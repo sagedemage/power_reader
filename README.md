@@ -1,4 +1,4 @@
-# power_reader
+# us_city_coordinates_powershell
 
 ![power_reader](./screenshots/power_reader.PNG)
 
